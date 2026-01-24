@@ -7,6 +7,8 @@
 
 <img width="400" height="113" alt="image" src="https://github.com/user-attachments/assets/058ad3cd-118e-40ef-8905-1cfc1d565ac1" />
 
+
+
 <img width="655" height="452" alt="image" src="https://github.com/user-attachments/assets/3bc8c50d-a36e-4da0-9168-c0cb31056e50" />
 
 
@@ -17,6 +19,9 @@
 Результаты:
 
 <img width="342" height="122" alt="image" src="https://github.com/user-attachments/assets/e989c77d-5bac-44c8-9e4f-bd5035838d92" />
+
+
+
 
 <img width="622" height="394" alt="image" src="https://github.com/user-attachments/assets/ac135293-b026-4b61-bdd1-f8379fedee2f" />
 
