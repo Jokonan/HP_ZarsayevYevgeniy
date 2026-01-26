@@ -1,3 +1,18 @@
+##Task1
+
+<img width="557" height="326" alt="image" src="https://github.com/user-attachments/assets/2b892093-1b68-426d-a672-56f6cfbdca23" />
+
+
+## Task2
+
+<img width="678" height="328" alt="image" src="https://github.com/user-attachments/assets/01894d0c-c565-4141-8af3-9f0860bf4078" />
+
+
+
+## Task3
+
+<img width="553" height="771" alt="image" src="https://github.com/user-attachments/assets/6b9a1492-23cc-42d7-b7c9-2d697f713a42" />
+
 
 # Контрольные вопросы
 
@@ -25,7 +40,20 @@
 
 ### Сборка
 
-!nvcc practice7.cu -O2 -gencode arch=compute_75,code=sm_75 -o practice7
+!mpic++ task1.cpp -o task1
+
+!mpic++ task2.cpp -o task2
+
+!mpic++ task3.cpp -o task3
+
+
 
 ### Запуск
-!./practice7
+
+!mpirun --allow-run-as-root --oversubscribe -np 1 ./task1
+
+!mpirun --allow-run-as-root --oversubscribe -np 1 ./task2
+
+!mpirun --allow-run-as-root --oversubscribe -np 2 ./task3
+
+
