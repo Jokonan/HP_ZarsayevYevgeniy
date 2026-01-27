@@ -2,8 +2,18 @@
 
 ## Отчет по Practice8
 
-
+### Результаты:
 <img width="559" height="548" alt="image" src="https://github.com/user-attachments/assets/6824370c-4624-44ca-8f54-9cda7c72aadd" />
+
+
+
+
+
+
+### Блок-схема
+
+<img width="327" height="835" alt="image" src="https://github.com/user-attachments/assets/5d9dfda3-8d8f-4107-bf84-f9ed5f54d70f" />
+
 
 
 
