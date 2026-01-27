@@ -1,4 +1,4 @@
-# Practice8_ZarsayevYevgeniy Отчет еще в работе...
+# Practice8_ZarsayevYevgeniy
 
 ## Отчет по Practice8
 
