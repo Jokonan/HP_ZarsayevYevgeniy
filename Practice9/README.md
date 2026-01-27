@@ -1,22 +1,48 @@
-# Practice9_ZarsayevYevgeniy Отчет еще в работе...
+<img width="221" height="834" alt="image" src="https://github.com/user-attachments/assets/9de632bb-0abb-4603-a03b-f4c6472039e7" /># Practice9_ZarsayevYevgeniy Отчет еще в работе...
 
-## Отчет по Practice9
+# Отчет по Practice9
 
+В данной работе рассматриваются распределённые вычисления с использованием технологии MPI на примере нескольких типовых задач параллельного программирования. Основное внимание уделяется распределению данных между процессами, организации обмена информацией и синхронизации вычислений. В рамках работы исследуется, как различные MPI-операции влияют на корректность и производительность программ при изменении количества процессов.
+
+Для выполнения заданий используются коллективные операции MPI, такие как MPI_Scatter, MPI_Scatterv, MPI_Reduce, MPI_Bcast и MPI_Allgather. На их основе реализуются распределённое вычисление статистических характеристик массива, решение системы линейных уравнений и параллельный анализ графов. Также проводится измерение времени выполнения и анализ масштабируемости программ при различном числе процессов.
 
 ## Task1
+
+### Результаты
 
 <img width="557" height="326" alt="image" src="https://github.com/user-attachments/assets/2b892093-1b68-426d-a672-56f6cfbdca23" />
 
 
+### Блок схема
+
+<img width="221" height="834" alt="image" src="https://github.com/user-attachments/assets/ceda96f7-22ac-4a80-a9f1-2791e52ded6b" />
+
+
+
 ## Task2
+
+### Результаты
 
 <img width="678" height="328" alt="image" src="https://github.com/user-attachments/assets/01894d0c-c565-4141-8af3-9f0860bf4078" />
 
+### Блок схема
+
+<img width="209" height="813" alt="image" src="https://github.com/user-attachments/assets/0f906797-af9e-43c1-a3f9-edfa3fd3c2d9" />
 
 
 ## Task3
 
+
+### Результаты
+
+
 <img width="553" height="771" alt="image" src="https://github.com/user-attachments/assets/6b9a1492-23cc-42d7-b7c9-2d697f713a42" />
+
+
+### Блок схема
+
+<img width="204" height="816" alt="image" src="https://github.com/user-attachments/assets/c11fa05e-5fb9-4500-9cf0-51ac6d3e0c65" />
+
 
 
 # Контрольные вопросы
