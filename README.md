@@ -1,10 +1,8 @@
 # HP_ZarsayevYevgeniy
 
-GoogleDocs ссылка с полным заданием - https://docs.google.com/document/d/1rKfHAUZfMh56TJ5NeCjua4hFmnqfkeWBg-017be9XF0/edit?usp=sharing
-(Актуально только для недели 1-5. После все приложения к заданиям находятся в их папках)
+### !Все блок=схемы, скриншоты, диаграммы, ответы на контрольные вопросы и отчеты находятся в соответствующих папках, в README.md
 
-### Сборка
-g++ -std=c++17 -O2 -fopenmp file_name.cpp -o exec_name.exe
+### Старые блок-схемы и отчеты до 5 недели(Assignmen1+2, Practice 1-4), все так же можно найти по ссылке
+https://docs.google.com/document/d/1rKfHAUZfMh56TJ5NeCjua4hFmnqfkeWBg-017be9XF0/edit?usp=sharing
 
-### Запуск
-.\A1.exe
+# https://github.com/Jokonan/HP_ZarsayevYevgeniy/tree/main
